@@ -1,3 +1,5 @@
+# WIP - this is not finished yet
+
 # elm-review-missing-url-codec-getters
 
 Provides [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) rules to generate missing getters and predicates for [`Janiczek/elm-url-codec`](https://package.elm-lang.org/packages/Janiczek/elm-url-codec/latest/) module [`Url.Codec`](https://package.elm-lang.org/packages/Janiczek/elm-url-codec/latest/Url-Codec).
