@@ -65,7 +65,7 @@ config =
 
 ## Usage
 
-The rule will generate the helpers (with names that won't be very nice) in a comment-delimited section under the given type:
+The rule will generate the helpers (with bad names that you can then change for custom ones) in a comment-delimited section under the given type:
 
 ```elm
 module Route exposing (Route(..))
